@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bayazeed.football",
+      "sha256_cert_fingerprints": [
+        "8B:E1:BA:76:C2:1B:3F:D8:38:6A:31:69:C4:03:C6:0C:D5:B8:22:A1:E9:F7:18:4D:3A:0D:97:2E:E9:EE:D3:15"
+      ]
+    }
+  }
+]
